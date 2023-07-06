@@ -6,4 +6,4 @@ export function truncate(str, n) {
 
 
 
-axios.defaults.baseURL = 'https://chatter-backend-ig7hnkr54-codedivah.vercel.app/';
+axios.defaults.baseURL = 'https://medium-clone-api-six.vercel.app/';
